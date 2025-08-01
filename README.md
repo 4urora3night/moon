@@ -1,5 +1,5 @@
 # Moon 🌕
-### V100
+### v100[in development]
 A script made using `gum` to modify your arch linux setup.
 
 Mods available for:
